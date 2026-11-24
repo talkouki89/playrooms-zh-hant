@@ -1,4 +1,4 @@
-# Playrooms 繁體中文漢化 — 一鍵套用 / 還原
+﻿# Playrooms 繁體中文漢化 — 一鍵套用 / 還原
 #
 # 用法：
 #   powershell -ExecutionPolicy Bypass -File apply.ps1
@@ -14,6 +14,9 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
+try { [Console]::OutputEncoding = [System.Text.Encoding]::UTF8 } catch { }
+$env:PYTHONIOENCODING = "utf-8"
+$env:PYTHONUTF8 = "1"
 $repo = Split-Path -Parent $MyInvocation.MyCommand.Path
 $patch = Join-Path $repo "tools\patchlib.py"
 
@@ -24,7 +27,7 @@ function Stop-Here($code) {
 }
 
 function Find-Python {
-    foreach ($cmd in @("py", "python", "python3")) {
+    foreach ($cmd in @("python", "python3", "py")) {
         try {
             $ver = & $cmd --version 2>$null
             if ($LASTEXITCODE -eq 0 -and $ver -match "Python 3") { return $cmd }
@@ -33,19 +36,26 @@ function Find-Python {
     return $null
 }
 
+function Test-UnityPy($cmd) {
+    & $cmd -c "import UnityPy,sys;v=tuple(int(x) for x in UnityPy.__version__.split('.')[:3]);sys.exit(0 if v>=(1,25,4) else 1)" 2>$null
+    return ($LASTEXITCODE -eq 0)
+}
+
 function Find-GameDir {
-    $candidates = @()
-    if ($env:ProgramFiles) { $candidates += Join-Path $env:ProgramFiles "Steam\steamapps\common\Playrooms" }
-    if (${env:ProgramFiles(x86)}) { $candidates += Join-Path ${env:ProgramFiles(x86)} "Steam\steamapps\common\Playrooms" }
-    foreach ($drive in "C", "D", "E", "F", "G", "H") {
-        $candidates += "${drive}:\SteamLibrary\steamapps\common\Playrooms"
-        $candidates += "${drive}:\Steam\steamapps\common\Playrooms"
-        $candidates += "${drive}:\Games\Steam\steamapps\common\Playrooms"
+    $candidates = New-Object System.Collections.Generic.List[string]
+    $pf86 = [Environment]::GetEnvironmentVariable("ProgramFiles(x86)")
+    $pf64 = [Environment]::GetEnvironmentVariable("ProgramFiles")
+    if ($pf64) { $candidates.Add((Join-Path $pf64 "Steam\steamapps\common\Playrooms")) }
+    if ($pf86) { $candidates.Add((Join-Path $pf86 "Steam\steamapps\common\Playrooms")) }
+    foreach ($drive in @("C", "D", "E", "F", "G", "H")) {
+        $candidates.Add(("{0}:\SteamLibrary\steamapps\common\Playrooms" -f $drive))
+        $candidates.Add(("{0}:\Steam\steamapps\common\Playrooms" -f $drive))
+        $candidates.Add(("{0}:\Games\Steam\steamapps\common\Playrooms" -f $drive))
     }
     foreach ($path in $candidates) {
         if (Test-Path (Join-Path $path "Playrooms.exe")) { return $path }
     }
-    return $null
+    return ""
 }
 
 Write-Host "Playrooms 繁體中文漢化" -ForegroundColor White
@@ -75,12 +85,11 @@ if (-not $python) {
 }
 Write-Step "Python：$python"
 
-& $python -c "import UnityPy" 2>$null
-if ($LASTEXITCODE -ne 0) {
-    Write-Step "安裝相依套件 UnityPy（需要網路）"
-    & $python -m pip install --disable-pip-version-check UnityPy
-    if ($LASTEXITCODE -ne 0) {
-        Write-Host "UnityPy 安裝失敗，請手動執行：$python -m pip install UnityPy" -ForegroundColor Red
+if (-not (Test-UnityPy $python)) {
+    Write-Step "安裝／更新相依套件 UnityPy >= 1.25.4（需要網路）"
+    & $python -m pip install --disable-pip-version-check "UnityPy>=1.25.4"
+    if (-not (Test-UnityPy $python)) {
+        Write-Host "UnityPy 安裝失敗，請手動執行：$python -m pip install -U `"UnityPy>=1.25.4`"" -ForegroundColor Red
         Stop-Here 1
     }
 }
@@ -100,5 +109,7 @@ if ($LASTEXITCODE -ne 0) {
 
 Write-Host ""
 Write-Host "完成！從 Steam 啟動遊戲即可看到繁體中文。" -ForegroundColor Green
-Write-Host "原始檔案備份於 $repo\.backup（要還原請加 -Restore）"
+Write-Host "原始檔案備份於 $repo\.backup（要還原請執行 restore.ps1 或加 -Restore）"
 if (-not $NoPause) { Read-Host "按 Enter 結束" }
+
+

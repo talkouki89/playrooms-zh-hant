@@ -133,6 +133,29 @@ def backup_dir(repo_dir: str, game_dir: str) -> str:
     return os.path.join(repo_dir, ".backup", tag)
 
 
+CJK_MARKERS = ("新遊戲", "設定", "離開")
+
+
+def looks_patched(game_dir: str) -> bool:
+    """True when the live string table already contains Chinese text."""
+    path = os.path.join(aa_dir(game_dir), STRING_BUNDLE)
+    if not os.path.exists(path):
+        return False
+    env = UnityPy.load(path)
+    for obj in env.objects:
+        if obj.type.name != "MonoBehaviour":
+            continue
+        try:
+            tree = obj.read_typetree()
+        except Exception:
+            continue
+        for entry in tree.get("m_TableData") or []:
+            text = entry.get("m_Localized") or ""
+            if any(marker in text for marker in CJK_MARKERS):
+                return True
+    return False
+
+
 def ensure_backup(repo_dir: str, game_dir: str, *, force: bool = False) -> str:
     """Copy the untouched game files into the backup folder (once)."""
     dst = backup_dir(repo_dir, game_dir)
@@ -361,6 +384,11 @@ def apply(repo_dir: str, game_dir: str, *, log=print) -> dict:
     if not os.path.isdir(game_dir):
         raise PatchError(f"game folder not found: {game_dir}")
 
+    fresh = not os.path.isdir(backup_dir(repo_dir, game_dir))
+    if fresh and looks_patched(game_dir):
+        raise PatchError(
+            "偵測到遊戲已經是中文版，但沒有原始檔備份。\n"
+            "請先用 Steam「驗證檔案完整性」還原成英文版，再執行本工具。")
     bak = ensure_backup(repo_dir, game_dir)
     log(f"備份：{bak}")
     # always start from pristine bytes so re-running is deterministic
@@ -405,12 +433,15 @@ def main(argv: list[str]) -> int:
         print("找不到遊戲資料夾，請用 --game-dir 指定（例如 \"D:\\SteamLibrary\\steamapps\\common\\Playrooms\"）")
         return 2
 
-    if args.restore:
-        n = restore_from_backup(repo_dir, game_dir)
-        print(f"已還原 {n} 個檔案 → {game_dir}")
-        return 0
-
-    stats = apply(repo_dir, game_dir)
+    try:
+        if args.restore:
+            n = restore_from_backup(repo_dir, game_dir)
+            print(f"已還原 {n} 個檔案 → {game_dir}")
+            return 0
+        stats = apply(repo_dir, game_dir)
+    except PatchError as exc:
+        print(f"錯誤：{exc}")
+        return 1
     print(f"翻譯字串：{stats['strings']} 條")
     print(f"語系名稱：{'已改為繁體中文' if stats['locale'] else '未變更（找不到 en locale）'}")
     for name, fonts in stats["fonts"].items():
