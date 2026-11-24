@@ -1,0 +1,152 @@
+1685323776	Skills
+1714683904	Unlock
+1718878208	Maxed
+1718878209	Respec
+70875587280897	+%%Value%% additional ball(s) per pickup
+70875587280896	Collect additional nearby balls when picking up a ball.
+70875557920768	Ball Magnet
+1760843530240	Close
+87256005345280	Move faster
+87256030511104	Move faster
+87256030511105	Sprinting drains less stamina
+87256030511106	Sprinting drains less stamina
+87256030511107	Big Pockets
+87256030511108	Carry more balls before you have to bring them to a ball pit.
+87256030511109	+%%Value%% carry capacity
+1118910012170240	Sprinting drains less stamina
+1118955012857856	Move faster
+1122650874159104	Sprint
+1122650878353408	Crouch
+1152108150628352	Quick Hands
+1152108159016960	Throw your balls into a ball pit faster. The last level hands in everything at once.
+1549569572995072	Quick Grab
+1549569627521024	Shortens the pause you have to take between picking up balls.
+3705578074382336	Vacuum Collect
+3705578112131072	Hold the collect button to continuously vacuum up balls instead of collecting one per click.
+5000000000000001	Longer Days
+5000000000000002	Extends how long the day lasts before night falls.
+5000000000000003	Slow Blackout
+5000000000000004	Increases the pause between each light group switching off, giving you more time before nightfall.
+8333112271413248	Hand
+8333112300773376	Ball Pit
+8333112300773377	Light
+8333112300773378	Ball Vacuum
+8373961751502848	Upgrades can be bought at the bed at night
+11251453894041600	Flashlight
+11251453915013120	Beam Brightness
+11251453915013121	A brighter beam pushes the dark back further.
+11251453915013122	Battery Life
+11251453915013123	The flashlight runs longer before it needs a recharge.
+11251453915013124	Beam Range
+11251453915013125	The beam reaches deeper into the rooms.
+11265756915277824	Push Broom
+11265756919472128	Load
+11265756919472129	How many balls the broom can push at once. Whatever does not fit stays behind.
+11265756919472130	Sweep Width
+11265756919472131	A wider broom head catches more balls at once.
+11265756919472132	Flick
+11265756919472133	Letting go of the button flicks the pile forward - the way to shoot it into a vent. Every level flicks harder and further.
+11297820167348224	Tank Size
+11297820179931136	More balls fit into the vacuum before it is full.
+11297820179931137	Intake Reach
+11297820179931138	Balls are taken in from further out.
+11297820179931139	Intake Speed
+11297820179931140	Balls travel faster once the vacuum has hold of them. The first level switches suction mode on in the first place.
+12027456648093696	Fast Charge
+12027456685842432	A drained battery is back to full sooner.
+12804844200132608	Level
+13805119763095552	Endless Sweep
+13805119813427200	The broom keeps pushing for as long as you hold the button.
+13836282477125632	Push Tempo
+13836282527457280	Pushing a pile with the broom slows you down. Every level lets you walk faster while pushing - the last one even faster than without the broom.
+14222084974190592	Ball Vent
+14222085007745024	Intake Reach
+14222085007745025	Widens the vent's mouth so balls are taken in from further out. Every vent in the level grows by the same factor.
+14222085045493760	Intake Speed
+14222085045493761	Balls travel faster once the vent has hold of them.
+14222085045493762	Suction Force
+14222085045493763	The vent pulls harder, so balls get moving the moment they enter the mouth instead of drifting in.
+14222085045493764	Throughput
+14222085045493765	How many balls a vent can swallow at once. A whole broom load stops jamming at the mouth.
+18135327384469504	Long Arms
+18135327422218240	Extends how far you can reach to pick up balls and use things.
+21113629137108992	Legs
+21113629174857728	Sprint Speed
+21113629174857729	How fast you run while sprinting. Walking is untouched.
+21113629195829248	Sprint Stamina
+21113629195829249	Stretches how long you can hold a sprint before you run out of breath.
+27253933217087488	Robot Vacuums
+27253933259030528	Robot Tank
+27253933259030529	How many balls a cleaning robot carries before it heads home.
+27253933275807744	Fast Charging
+27253933275807745	How fast a docked robot refills its battery.
+27253933280002048	Quick Unload
+27253933280002049	How fast a robot empties its tank into the pits.
+27253933280002050	Big Battery
+27253933280002051	How long a robot drives on one charge.
+27267114211672064	Turbo Motor
+27267114236837888	Robots drive faster and pull balls in faster.
+28703035742158848	Robot Stacking
+28703035779907584	Carry more robots at once - at the last level all of them.
+28772615646224384	Coffee
+28772615751081984	Strong Brew
+28772615751081985	The coffee keeps you going for longer.
+28772615801413632	Special Blend
+28772615801413633	Every blend adds another kick to your coffee.
+28772646507913216	Gift from HR
+31289219944685568	Unload Speed
+31289220036960256	Holding the vacuum moves its tank into your pockets faster. The last level hands everything over at once.
+31289220099874816	Upload Speed
+31289220099874817	The vacuum sends its tank to the ball pits faster while it keeps sucking.
+33109136226525184	Whole day
+33750645716746240	all at once
+33756075352326144	Walking speed +10%
+33756075415240704	+1 ball per pick-up
+33756075415240705	Max stamina +25
+33756075415240706	Stamina recovers 50% faster
+33756075415240707	Faster sprint
+33764883441057792	Active effects
+33764883474612224	After upgrade
+33764883474612225	Later upgrades
+33766388978089984	Sprint with %%Key%%
+33766389015838720	Crouch with %%Key%%
+35875202141454336	Hand Vacuum
+35875202154037248	Tank Size
+35875202154037249	The hand vacuum holds more balls before it has to be emptied at a ball pit.
+35875202409889792	Suction Power
+35875202409889793	The hand vacuum swallows more balls per second.
+35875202409889794	Nozzle Reach
+35875202409889795	The hand vacuum pulls balls in from further away.
+35875202409889796	Auto Upload
+35875202409889797	The hand vacuum sends its tank to the ball pits on its own while you keep walking.
+35920312203935744	Suction Cone
+35920312224907264	The hand vacuum pulls in balls from a wider cone around the crosshair.
+35955719067074560	Overtime: day +60 s
+35968848740155392	Auto Switch
+35968848769515520	The vacuum starts uploading by itself once it is full or nothing is left to suck, and goes back to sucking once its tank is empty.
+36285363158974464	Inventory Scanner
+36285363217694720	Scan Range
+36285363217694721	The scan wave runs further and records units further away.
+36285363217694722	Display Duration
+36285363217694723	Recorded units stay highlighted for longer.
+36285363217694724	Cooldown
+36285363217694725	The scanner is ready for the next scan sooner.
+36598607601926144	Fruit Basket
+36598607664840704	Fresh Picked
+36598607664840705	Every piece works for longer (level 5: the whole day).
+36598607702589440	Mixed Basket
+36598607702589441	More kinds of fruit in the basket each morning.
+36598607702589442	Whole day
+36598607702589443	Apple: pick up balls faster
+36598607702589444	Banana: sprint drains less
+36598607702589445	Pear: reach +30%
+36598607702589446	Lemon: flashlight lasts longer
+36598623481561088	Gift from HR
+42144165434892288	Waiting in the Break Room by the coffee machine
+42144165527166976	Inventory Scanner
+42144165527166977	Now in the shop on the computer
+42144165527166978	Another parcel is waiting in the Break Room
+42144165531361280	More robot vacuums
+42144165531361281	More robots and charging stations in the shop
+42144165531361282	More ball vacuums
+42144165531361283	More devices in the shop

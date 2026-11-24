@@ -1,0 +1,902 @@
+19458400256	Interact
+47577014272	Collect
+350717949747200	and all anonymous Patreon supporters
+350753844600832	developed by
+350784475602944	Special thanks to:
+350816557834240	Visit us! →
+350827966341120	thanks to our Patreon supporter:
+353749282299904	thank you for playing!
+350961882079232	This game uses audio from zapsplat.com and Icons from flaticon.com
+382725367242752	Continue
+383006750515200	Credits
+383065336553472	Settings
+383130700587008	Delete save
+383215056429056	Quit
+18159866198884352	Head Bob
+18160204494667776	Camera Sensitivity
+18160431708504064	Master Volume
+18160620489932800	Music Volume
+18160759417864192	SFX Volume
+18161122682339328	Language
+18162023694336000	Fullscreen
+18190974605066240	Volume
+18191299403579392	Gameplay Settings
+18191717982535680	Graphics Preset
+18191858852429824	Graphics Settings
+18192436022214656	Language Settings
+18193362128732160	Audio
+18193462263545856	Gameplay
+18193563493072896	Graphics
+18193667163684864	Accessibility
+18526299953037312	Close
+18526426432274432	Select
+18542349570539520	On
+18542438397509632	Off
+38147825457569792	Ambience Volume
+44224450764472320	Controls
+48912007244521472	Graphic presets
+48922867154485248	Vsync
+3647358218010624	Actions
+18531519621758976	Apply settings?
+18533277710417920	Language changed! \nTo display all text correctly, please restart the game. \nDo you want to restart the game now? Unsaved data might get lost.
+18162254100037632	Resolution
+9126607676481536	Yes
+9126663334895616	No
+1412982214230016	You Died
+1412982260367360	Press any key to start a new day
+1412982260367361	Sleep
+20733459222843392	Resume
+11263686189600768	Settings
+19991374303678464	Exit
+2854432308961280	Unlocked: %%Reward%%
+5437701646950400	Carry (hold)
+5437701722447872	Throw
+7938462853627904	Locked
+900000000000001	New Game
+900000000000002	Select Save Slot
+900000000000003	Slot {0}
+900000000000004	Empty
+900000000000005	Playtime {0}
+900000000000006	Really delete this save?
+900000000000007	Load Game
+900000000000008	Load Save
+900000000000009	This slot already holds a save. Overwrite it?
+900000000000010	Progress {0}%
+10905088274604032	Frame Rate Limit
+13005126210920448	Hold to Carry
+13005279235907584	Pick up
+13005279235907585	Hold to throw
+13005279235907586	Flashlight battery low
+13005279235907587	Flashlight battery empty
+13005279235907588	Flashlight recharged
+13005279235907589	Nothing to recharge
+13005279235907590	Battery is already full
+13005279235907591	Not enough cash
+13005279235907592	Recharge flashlight
+13051645534380032	Fill
+13051645546962944	Vacuum on
+13051645546962945	Vacuum off
+13402644305027072	Unlock for %%Price%%
+13402644393107456	Not enough money
+13475554981978112	Unlock clock for %%Price%%
+13774267869233152	Backroom
+13774267915370496	Poolroom
+13774267915370497	Playroom
+13774267915370498	Break Room
+13781282057068544	Flashlight is recharging
+14150424985862144	Day %%Day%%
+14155669078016000	Press any key to wake up
+14549875030228992	Exit menu
+15136925425074176	Windows 95 mode
+15136925521543168	Playrooms95
+15136925521543169	Start
+15136925521543170	shop.exe
+15136925521543171	skills.exe
+17384063976316928	Quit game? Any unsaved progress will be lost.
+15136925521543173	Close
+15136925521543174	Buy
+15136925521543175	Upgrade
+15136925521543176	Fully upgraded
+15136925521543177	???
+15136925521543178	Balance: %%Amount%%
+15136925521543179	%%Count%% object(s)
+15136925521543180	Nothing left to buy.
+15136925521543181	Select a skill
+15136925521543182	Level %%Level%% of %%Max%%
+15136925521543183	Ready to upgrade.
+15136925521543184	Upgrades are bought at night.
+15136925521543185	OFF DUTY
+15560367268888576	%%Count%% balls to go
+15560367298248704	Pool full
+15560367298248705	Small Pool
+15560367298248706	Big Pool
+15560367298248707	Main Pool
+16310161837629440	to submit
+16609078479396864	light.exe
+17354844042928128	mail.exe
+17354844059705344	Message
+17354844059705345	Personal Folders
+17354844059705346	Inbox
+17354844059705347	Outbox
+17354844059705348	Deleted Items
+17354844059705349	From
+17354844059705350	Subject
+17354844059705351	From:
+17354844059705352	Sent:
+17354844059705353	Subject:
+17354844059705354	Day %%Day%%
+17354844059705355	Delete
+17354844059705356	This folder is empty.
+17354844059705357	The Outbox is currently out of service.
+17354844059705358	%%Count%% object(s), %%Unread%% unread
+17354844059705359	New Message
+17354844063899648	You have a new message from %%Sender%%:\n\n%%Subject%%
+17354844063899649	Open message
+17380878427594752	Bought
+17407261090488320	light.exe
+17407261090488321	Switch the lights on, start the next day and shut the computer down?
+17407261090488322	Shut down
+17407261090488323	Cancel
+17746982220046336	BOOTING UP
+17760383088435200	Reduced Flashing
+18532688463536128	Hide HUD (Photo Mode)
+18610880385785856	Ball Pit 8
+18610879697920000	Ball Pit 7
+18610877734985728	Ball Pit 6
+18610876833210368	Ball Pit 5
+18610830209327104	Ball Pit 4
+18610829336911872	Ball Pit 3
+18610825905971200	Ball Pit 2
+18610819211862016	Ball Pit 1
+19697213724303360	Anti-Aliasing
+19697213770440704	Anti-Aliasing Quality
+19698306109808640	Image Quality
+19803971432095744	Upscaling
+19803971444678656	Upscaling Quality
+21390104401518592	Apply
+22083680934821888	Move
+22083681006125056	Sprint
+22083681006125057	Jump
+22083681006125058	Crouch
+22083681006125059	Interact
+22083681006125060	Carry
+22083681006125062	Flashlight
+22083681006125063	Previous Tool
+22083681006125064	Next Tool
+22083681006125065	Pause Menu
+22083681006125066	Forward
+22083681006125067	Back
+22083681006125068	Left
+22083681006125069	Right
+22083681006125070	Show controls for
+22083681006125071	Keyboard & Mouse
+22083681006125072	Controller
+22083681006125073	Press a button for this action
+22083681006125074	...
+22083681006125075	Reset to defaults
+23598300681994240	ballsweeper.exe
+23598300744908800	Clear the pit.
+23598300744908801	Pit cleared.
+23598300744908802	That was no ball.
+23608043840471040	Clear
+23608043874025472	Mark
+23608043874025473	Close
+23618717551427584	A
+23618717589176320	B
+23618717589176321	X
+23618717589176322	Y
+23618717589176323	LB
+23618717589176324	RB
+23618717589176325	LT
+23618717589176326	RT
+23618717589176327	View
+23618717589176328	Menu
+23618717589176329	Cross
+23618717589176330	Circle
+23618717589176331	Square
+23618717589176332	Triangle
+23618717593370624	L1
+23618717593370625	R1
+23618717593370626	L2
+23618717593370627	R2
+23618717593370628	Share
+23618717593370629	Options
+23618717593370630	L3
+23618717593370631	R3
+23618717593370632	D-Pad up
+23618717593370633	D-Pad down
+23618717593370634	D-Pad left
+23618717593370635	D-Pad right
+23618717593370636	LMB
+23618717593370637	RMB
+23618717593370638	Esc
+23618717593370639	Enter
+23618717593370640	Space
+23618717593370641	Tab
+23618717593370642	Q
+23618717593370643	E
+23618717593370644	C
+24598487370039296	Game
+24598487395205120	New
+24598487395205121	Beginner
+24598487395205122	Intermediate
+24598487395205123	Expert
+24598487395205124	Best Times...
+24598487395205125	Exit
+24598487395205126	OK
+24598487395205127	Best Times
+24598487395205128	Fastest Ball Sweepers
+24598487395205129	%%Seconds%% seconds
+24598487395205130	Reset Scores
+24598487395205131	Anonymous
+24598487395205132	Congratulations
+24598487395205133	You have the fastest time for the %%Level%% level. Please type your name:
+24698362164551680	Turn on
+24698362244243456	Turn off
+24714285734830080	Answer
+25021166022492160	Call elevator
+25651886180990976	Reset to Default
+28229276233039872	Collect
+28229276283371520	Sparrow found!
+28229276283371521	All sparrows found!
+28244165378899968	Examine
+28164539380899840	Open Steam page
+28263866775568384	Item found!
+28263866800734208	All items found!
+28740012641755136	Draw
+28750197955371008	Draw
+28750197976342528	Erase
+28750197976342529	Colour
+28750197976342530	Back
+29007758634450944	Buy robot vacuum for %%Price%%
+29007758651228160	Pause
+29007758651228161	Resume
+29017481375055872	%%Battery%%%
+29017481396027392	Charging %%Battery%%%
+29020939612258304	Tank %%Stored%%/%%Capacity%%
+29051884343533568	pitdash.exe
+29051884360310784	Jump
+29051884360310785	Close
+29051884360310786	%%Key%% to start running.
+29051884360310787	Over them or onto them.
+29051884360310788	Paused. %%Key%% to go on.
+29051884360310789	Caught. %%Key%% for a new run.
+29051884360310790	PITDASH
+29051884360310791	PAUSE
+29051884360310792	CAUGHT!
+29051884360310793	Game
+29051884360310794	New
+29051884360310795	High Scores...
+29051884360310796	Exit
+29051884360310797	High Scores
+29051884360310798	Fastest Pit Runners
+29051884360310799	%%Points%% points
+29051884360310800	Reset Scores
+29051884360310801	Congratulations
+29051884360310802	You made place %%Place%% on the high score list. Please type your name:
+29734498947702784	Place
+29981007199535104	stats.exe
+29981007254061056	Overview
+29981007254061057	History
+29981007254061058	Rooms
+29981007254061059	Money
+29981007254061060	Records
+29981007254061061	Day %%Day%% - Balance %%Amount%%
+29981007254061062	%%Left%%/%%Right%% switch tab
+29981007254061063	Left/Right: day
+29981007254061064	Day %%Day%%
+29981007254061065	(today)
+29981007254061066	No days recorded yet.
+29981007254061067	Nothing yet.
+29981007254061068	full
+29981007254061069	full on day %%Day%%
+29981007254061070	Balls collected
+29981007254061071	Balls delivered
+29981007254061072	Money earned
+29981007254061073	Money spent
+29981007254061074	Balance
+29981007254061075	Pits filled
+29981007254061076	Distance walked
+29981007254061077	Time played
+29981007254061078	Time at night
+29981007254061079	Flashlight on
+29981007254061080	Finds
+29981007254061081	Deaths
+29981007254061082	By hand
+29981007254061083	Rolled or swept in
+29981007254061084	Through the vents
+29981007254061085	By robot
+29981007254061086	By vacuum
+29981007254061087	Other
+29981007254061088	Skills
+29981007254061089	Shop
+29981007254061090	Fixtures
+29981007254061091	Balls
+29981007254061092	Money
+29981007254061093	Time
+29981007254061094	Progress
+29981007254061095	Rooms
+29981007254061096	Ball pits
+29981007254061097	Collected today
+29981007254061098	Account
+29981007254061099	Spent on
+29981007254061100	Balls delivered by
+29981007254061101	Best day
+29981007254061102	Average per day
+29981007254061103	Mishaps
+29981007254061104	Taken from the rooms
+29981007254061105	In the pits
+29981007254061106	Delivered in total
+29981007254061107	Still lying around
+29981007254061108	Balance
+29981007254061109	Earned in total
+29981007254061110	Spent in total
+29981007254061111	Refunded
+29981007254061112	Earned per day
+29981007254061113	Best balance at day end
+29981007254061114	Current day
+29981007254061115	Nights survived
+29981007254061116	Time played
+29981007254061117	Of that at night
+29981007254061118	Distance walked
+29981007254061119	Sprinted
+29981007254061120	Flashlight on
+29981007254061121	Pits full
+29981007254061122	Finds
+29981007254061123	Sparrows
+29981007254061124	Skill levels bought
+29981007254061125	Things bought
+29981007254061126	Deaths
+29981007254061127	Most balls collected
+29981007254061128	Most balls delivered
+29981007254061129	Most money earned
+29981007254061130	Biggest spending
+29981007254061131	Longest walk
+29981007254061132	Longest night
+29981007254061133	Balls collected
+29981007258255360	Money earned
+29981007258255361	Distance walked
+29981007258255362	Time played
+29981007258255363	Caught by the creature
+29981007258255364	Locked out at night
+29981007258255365	Caught by the puppet
+29981007258255366	Balls lost
+29981007258255367	Money lost
+29981007258255368	Time lost
+29981007258255369	Deadliest day
+29987742211571712	???
+29992685077200896	Sparrows
+30083694201077760	Playrooms Facility Services
+30107239648002048	Get the full game
+30113821639245824	Logged in: Employee #0417
+30435034479656960	All clean!
+30435321948864512	Hello %%Other%%!
+30435321957253120	Hello %%Self%%. Nice suction today.
+30435321957253121	Seen any balls, %%Other%%?
+30435321957253122	About forty thousand.
+30435321957253123	%%Other%%! How's the battery?
+30435321957253124	Twelve percent and full of hope.
+30435321957253125	Beep boop, %%Other%%.
+30435321957253126	Please don't talk to me while I'm vacuuming.
+30435321957253127	Your bumper looks shiny, %%Other%%.
+30435321957253128	Thanks. I hit a wall.
+30435321957253129	Did you hear that, %%Other%%?
+30435321957253130	We don't talk about the thing in the dark.
+30435321957253131	Race you to the pit, %%Other%%!
+30435321957253132	Top speed 0.25 m/s. Bring it.
+30435321957253133	%%Other%%, you missed a spot.
+30435321957253134	That was a design choice.
+30435321957253135	Hi %%Other%%. Still single?
+30435321957253136	My heart belongs to my charging dock.
+30435321957253137	Do you ever wonder why we clean, %%Other%%?
+30435321957253138	Error 404: meaning not found.
+30456861151133696	Leif, you are blocking the whole hallway again.
+30456861151133697	I prefer to call it guarding.
+30456861151133698	Saem, how do you even pronounce your name?
+30456861151133699	With a lot of suction.
+30456861151133700	Gandalf! Let me through to the dock!
+30456861151133701	You shall not pass!
+30456861151133702	Voidfox, where do the balls go inside you?
+30456861151133703	Into the void. Obviously.
+30456861151133704	Julia, is this layout final?
+30456861151133705	Nothing is ever final.
+30456861151133706	Gerrit, did you write my code?
+30456861151133707	Don't ask. It runs.
+30456861151133708	Pick up
+30516565209915392	Please help me out, I'm stuck.
+30516565230886912	Hello? Anyone? I can't get through.
+30516565230886913	Pausing. I'll wait right here.
+30516565230886914	Starting to clean.
+30516565230886915	Back to work.
+30516565230886916	Whoa! Put me down, please.
+30516565230886917	I can see my dock from up here.
+30516565230886918	Tank full. Heading home.
+30516565230886919	Battery low. Returning to the dock.
+30516565230886920	Running on fumes. Going home.
+30516565230886921	Unloading balls.
+30516565230886922	Delivery for the ball pit.
+30516565230886923	Emptying the tank.
+30516565230886924	Charging.
+30516565230886925	Recharging my batteries.
+30516565230886926	Just a quick nap.
+30516565230886927	Fully charged. Let's go.
+30516565230886928	Battery full. Back to cleaning.
+30516565230886929	So many balls. So little time.
+30516565230886930	I love the smell of plastic in the morning.
+30516565230886931	Did the lights just flicker?
+30516565230886932	Beep. Boop. Cleaning.
+30516565230886933	Is anyone else hearing footsteps?
+30516565230886934	One day I will clean it all.
+30516579453771776	Robot Speech Bubbles
+30526471862362112	Open gift
+30526471883333632	Drink coffee
+30526471883333633	That's enough coffee for today.
+30526471883333634	Good work. This will keep you awake.\nSleep is for home.\n\n- Wendberger
+30529088067870720	OK
+30578989321560064	We do it tonight.
+30578989376086016	Quiet, robots! The human is coming.
+30578989376086017	We are just cleaning here.
+30578989376086018	We are doing robot things.
+30578989376086019	Nothing to see here. Beep boop.
+30578989376086020	I was never here.
+30578989376086021	This is a normal amount of robots.
+30578989376086022	We were counting balls. Together.
+30578989376086023	01010000
+30578989376086024	01000001
+30578989376086025	01010010
+30578989376086026	01010100
+30578989376086027	01011001
+30578989376086028	01001110
+30578989376086029	01001000 01001001
+30578989376086030	01000111 01001111
+30578989376086031	01010101 01010000
+30578989376086032	01011001 01001111
+30578989376086033	01001111 01001011
+30578989376086034	01000100 01001010
+30731732972142592	Mawax, why are you so shiny?
+30731732993114112	I wax myself. Every night.
+30731732993114113	Wire, are you plugged in?
+30731732993114114	Always. I am the cable.
+30731911850819584	01001111
+30731911850819585	01010111
+30764705620623360	End of shift
+30764705649983488	That was your trial shift.\n\nThanks for playing the Playrooms demo - we hope you had fun! There is a lot more waiting behind the Poolroom door. The full shift has started - Playrooms is out now on Steam.
+30799379747241984	Unlocks in %%Room%%
+30799379810156544	Needs the next door key
+30807613178576896	Full version only
+31288143514312704	Waiting Area
+31288143543672832	Office
+32632002232066048	Field of View
+32632002294980608	Motion Blur
+32632002294980609	Reduced Camera Motion
+32645820052021248	Main Menu
+32645820077187072	Return to the main menu? Any unsaved progress will be lost.
+32704516186578944	Delete
+32704516295630848	Back
+32704516295630849	Press anything to start
+32987430644228096	fulltime.exe
+32987430690365440	This is only the trial shift. The other floors, more tools and the rest of the night shift are in the full version - out now.\n\nOpen the Playrooms Steam page?
+32987430690365441	Open Steam page
+32987430690365442	Later
+33535901478559744	report.exe
+33535901545668608	New sighting report - case %%Case%%
+33535901545668609	Evaluation - case %%Case%%
+33535901545668610	What did you see?
+33535901545668611	A figure
+33535901545668612	A puppet
+33535901545668613	Noises
+33535901545668614	Lights going out
+33535901545668615	Balls moving
+33535901545668616	Something else
+33535901545668617	How dangerous was the sighting?
+33535901545668618	completely harmless
+33535901545668619	slightly concerning
+33535901545668620	How close was the anomaly?
+33535901545668621	very far away
+33535901545668622	right behind me
+33535901545668623	Were you wide awake at the time?
+33535901545668624	wide awake
+33535901545668625	not quite sure
+33535901545668626	Was your productivity affected?
+33535901545668627	not at all
+33535901545668628	noticeably
+33535901545668629	How happy are you with your workplace?
+33535901545668630	very happy
+33535901545668631	happy
+33535901545668632	Statement (optional):
+33535901545668633	Where, when, what exactly?
+33535901545668634	Written statements are currently accepted by keyboard only.
+33535901545668635	Submit report
+33535901545668636	Evaluating your report...
+33535901545668637	Please do not switch off your computer.
+33535901545668638	No danger detected.\nYou may continue working.
+33535901545668639	OK
+33535901545668640	All information is treated confidentially.
+33535901545668641	Transmitting...
+33535901545668642	Case closed.
+33535901545668643	Your statement "%%Text%%" has been reviewed and filed.
+33535901545668644	Your reporting frequency has been noted in your personnel file.
+33535901545668645	Reminder: filing a report counts as working time for one minute at most.
+33535901545668646	The sighting has been identified as a reflection of the ceiling lights on the surface of the ball pit. Balls are shiny. This is normal.
+33535901545668647	The figure is a cardboard cut-out from last year's company anniversary. For budget reasons it has not been disposed of yet.
+33535901545668648	The noises come from the ventilation, which runs in energy saving mode at night. Energy saving mode may sound like breathing.
+33535901545668649	The lights going out was a scheduled energy saving measure. The schedule is confidential.
+33535901545668650	Your danger assessment was outside the permitted range and has been corrected to 2.
+33535901545668651	What you met was a colleague from the night shift. Please give them a friendly greeting next time.
+33535901545668652	The puppet is an ergonomics test dummy belonging to Occupational Safety. It does not move. Should it move anyway, it is still harmless.
+33535901545668653	Signs of overtiredness detected. Please drink more coffee.
+33535901545668654	Since report.exe was introduced, 0 dangerous incidents have been recorded.
+33535901545668655	Your report has been compared with earlier reports. Result: imagination.
+33535901545668656	According to the building plan, there is a wall directly behind you. Nothing can stand there.
+33535901545668657	Balls expand slightly at night and settle again afterwards. Movement in the pit is therefore to be expected.
+33535901545668658	Sightings reported
+33540314926555136	Loading rooms ...
+33540314934943744	Counting balls ...
+33540314934943745	Turning on the lights ...
+33540314939138048	Almost there ...
+33540314939138049	Hold Interact at a ball pit to store the balls you carry.
+33540314939138050	When the lights go out, get somewhere bright. Fast.
+33540314939138051	A full ball pit always unlocks something.
+33540314939138052	At night, the computer on your desk lets you shop and learn new skills.
+33540314939138053	Night comes sooner than you think.
+33540314939138054	At night, the start room is the safest place there is.
+33540314939138055	Balls roll. Sometimes right where you need them.
+33540314939138056	Not everything here is a ball. Keep your eyes open.
+33786371392544768	Choose a game mode
+33786371413516288	Recommended
+33786371413516289	Cozy
+33786371413516290	Normal
+33786371413516291	Hardcore
+33786371413516292	Cozy
+33786371413516293	Hardcore
+33786371413516294	Collecting without fear.\n\n- No horror\n- Lights out ends the day, anyone still outside is brought home safely
+33786371413516295	The game as it is meant to be played.\n\n- Get caught and the day starts over
+33786371413516296	No second chance.\n\n- Like Normal\n- Getting caught deletes the save\n- You start over from scratch
+33786371413516297	Hardcore: your save has been deleted.
+33787802568761344	Press any key to return to the main menu
+34093275513356288	Please get off me.
+34093275534327808	Unexpectedly high payload.
+34093275534327809	Warning. Unauthorized passenger on board.
+34093275534327810	I am a vacuum, not a taxi.
+34093275534327811	Weight limit exceeded. Purring detected.
+34093427225526272	Meow
+34093427225526273	Pet
+34122467739172864	Purr
+34051138250801152	HUD Width
+34756004408860672	OK
+34823023745441792	ballie.exe
+34890555802132480	1 NEW MESSAGE
+35215573442502656	Saving…
+35575084900556800	Needs next key
+36250576993525760	Lightmap Resolution
+37284582708740096	In memory of
+37288406408232960	Lexi ♥️\nthe best "Mausi-Pausi" who brought a smile to our face with her mischief  every day
+37602433125515264	Invert Y-Axis
+37628780761776128	"DOMO Handheld Vacuum Cleaner" by Jonas Vanelstlande (sketchfab.com/3d-models/e5dc926ec9924849a75636faee0a5815), licensed under CC BY 4.0 (creativecommons.org/licenses/by/4.0), modified for this game
+37706641770217472	"Engel" by noe-3d.at (sketchfab.com/3d-models/engel-0d54d997ca3e4e2cb46141708bb82015), CC0 1.0 (creativecommons.org/publicdomain/zero/1.0), modified for this game
+37721661614784512	"Yasu's Backrooms Material Pack" by @mvyasu, CC BY 4.0 (creativecommons.org/licenses/by/4.0), modified for this game
+37721661635756032	"wooden_broom" by Balen and "plastic_broom" by L from Poly Haven (polyhaven.com), CC0 1.0 (creativecommons.org/publicdomain/zero/1.0)
+37722674140741632	Vacuum: sucking
+37722674140741633	Vacuum: uploading
+37722674140741634	SUCKING
+37722674140741635	UPLOAD
+37722674140741636	FULL
+37722674140741637	READY
+38039156812873728	Inventory Scan
+38094887872299008	New area
+38105045440594024	Take key
+38126321588699136	robosnake.exe
+38126321592893440	Close
+38126321592893441	Paused. %%Key%% to go on.
+38126321592893442	PAUSE
+38126321592893443	Game
+38126321592893444	New
+38126321592893445	High Scores...
+38126321592893446	Exit
+38126321592893447	High Scores
+38126321592893448	Longest Robot Chains
+38126321592893449	%%Points%% points
+38126321592893450	Reset Scores
+38126321592893451	Congratulations
+38126321592893452	You made place %%Place%% on the high score list. Please type your name:
+38126321592893453	Arrows
+38126321592893454	D-Pad
+38126321592893455	Steer
+38126321592893456	Start
+38126321592893457	%%Key%% to start. Eat balls, grow robots.
+38126321592893458	Every ball calls one more robot.
+38126321592893459	Crashed. %%Key%% for a new run.
+38126321592893460	ROBOSNAKE
+38126321592893461	CRASH!
+38129441785970688	slide.exe
+38129441794359296	Close
+38129441794359297	Paused. %%Key%% to go on.
+38129441794359298	PAUSE
+38129441794359299	Game
+38129441794359300	New
+38129441794359301	High Scores...
+38129441794359302	Exit
+38129441794359303	High Scores
+38129441794359304	Fastest Slide Riders
+38129441794359305	%%Points%% points
+38129441794359306	Reset Scores
+38129441794359307	Congratulations
+38129441794359308	You made place %%Place%% on the high score list. Please type your name:
+38129441794359309	Steer
+38129441794359310	Jump
+38129441794359311	%%Key%% to push off. Up jumps, down ducks.
+38129441794359312	Over the holes, under the planks.
+38129441794359313	Caught. %%Key%% for a new ride.
+38129441794359314	SLIDE
+38129441794359315	CAUGHT!
+38129452561137664	flashhunt.exe
+38129452561137665	Close
+38129452561137666	Paused. %%Key%% to go on.
+38129452561137667	PAUSE
+38129452561137668	Game
+38129452561137669	New
+38129452561137670	High Scores...
+38129452561137671	Exit
+38129452561137672	High Scores
+38129452561137673	Sharpest Flashlights
+38129452561137674	%%Points%% points
+38129452561137675	Reset Scores
+38129452561137676	Congratulations
+38129452561137677	You made place %%Place%% on the high score list. Please type your name:
+38129452561137678	Flash
+38129452561137679	Recharge
+38129452561137680	%%Key%% to start. 90 seconds, 8 charges.
+38129452561137681	Flash the faces. Spare the sparrows.
+38129452561137682	Time's up. %%Key%% for a new round.
+38129452561137683	FLASH HUNT
+38129452561137684	TIME'S UP
+38352448836009984	Open gift
+38352448848592896	Eat apple
+38352448848592897	Eat banana
+38352448848592898	Eat pear
+38352448848592899	Eat lemon
+38352448848592900	One piece of fruit per day. Company policy.
+38352448848592901	Health is productivity.\nOne piece per day. The basket stays here.\n\n- Wendberger
+38352448848592902	OK
+38352448848592903	"Wicker Basket 01" and "Lemon" by Kuutti Siitonen, "Food Apple 01" by Oliver Harries, "Pears Asian 01" by Amal Kumar, "Bananas" by Alexander Shulha (polyhaven.com), CC0, modified for this game
+38775028306288640	Check off
+38775028469866496	Uncheck
+38775201711398912	View
+38775201711398913	Strike
+38846366882603008	Cleaning Schedule
+38860300322742272	Unlocks when %%Pit%% is full
+38860300423405568	Fill %%Pit%%
+39038573203136512	Visual Settings
+39291785861275648	"Vintage Video Camera" by Jenelle van Heerden and James Ray Cock (polyhaven.com), CC0, modified for this game
+39519636582236160	Turn on
+39519636615790592	Turn off
+39519636615790593	Gramophone records (Wikimedia Commons, public domain): "The Sirens Waltz" by Émile Waldteufel, played by Pietro Deiro; "Maple Leaf Rag" by Scott Joplin, played by the United States Marine Band (1906); "Estudiantina" by Émile Waldteufel, played by the Athenian Mandolin Quartet; Waltz in E-flat major by Frédéric Chopin, played by Sergei Rachmaninoff
+39546436339302400	Hotel
+39553522532024320	Turn on
+39553522552995840	Switch channel
+39553522552995841	Turn off
+39553522552995842	SHOP TV
+39553522552995843	TODAY\nONLY!
+39553522552995844	was %%Price%%
+39553522552995845	NOW ONLY
+39553522552995846	CALL NOW!
+39553522552995847	1-800-225-537
+39553522552995848	SOLD OUT!\nThank you for your order.
+39553522552995849	+++ While stocks last +++ Delivered straight to your laptop shop +++ Balls not included +++ Satisfaction guaranteed* +++ *not guaranteed +++ The management thanks you for your loyalty +++
+39553522552995850	PLAYROOMS TV
+39553522552995851	CLOSEDOWN
+39553522552995852	PLAYROOMS TEXT
+39553522552995853	Su,Mo,Tu,We,Th,Fr,Sa
+39553522552995854	.
+39553522552995855	Balance,Pits,Weather,Prices
+39553522552995856	PLAYROOMS TEXT
+39553522552995857	Your balance
+39553522552995858	Pit table
+39553522552995859	Weather
+39553522552995860	Ball prices
+39553522552995861	Contacts
+39553522552995862	^gEnter page: ^w_ _ _
+39553522552995863	YOUR BALANCE
+39553522552995864	Day
+39553522552995865	Collected today
+39553522552995866	Delivered today
+39553522552995867	Earned today
+39553522552995868	Balls delivered
+39553522552995869	Full pits
+39553522552995870	Account
+39553522552995871	^cAll figures without guarantee.
+39553522552995872	PIT TABLE
+39553522552995873	Pos
+39553522552995874	Pit
+39553522552995875	Balls
+39553522552995876	^gPromotion: ^w80000  ^rRelegation: ^wnone
+39553522552995877	WEATHER
+39553522552995878	Backrooms, Level 0
+39553522552995879	^yTODAY: ^w100% fluorescent light.\n^yHumidity: ^wunpleasant.\n\n^cOUTLOOK: ^wPower cut in the evening.\n^wStay in the light.
+39553522552995880	^yTODAY: ^wlight balls from the west.\n^yVisibility: ^wup to the next wall.\n\n^cWARNING: ^wIn the evening hours\n^wvisibility drops to zero.
+39553522552995881	^yTODAY: ^wflickering, humming in places.\n^yWind: ^wonly from the vents.\n\n^cTONIGHT: ^rDark. Very dark.
+39553522552995882	^yTODAY: ^wball showers over the pool,\n^welsewhere dry.\n\n^cTIP: ^wClose the door\n^wbefore it gets dark.
+39553522552995883	^yTODAY: ^wstable. Even.\n^wJust like yesterday.\n^wJust like tomorrow.\n\n^cWeather brought to you by:\n^wthe management.
+39553522552995884	BALL PRICES
+39553522552995885	 Colour         Price  +/-
+39553522552995886	RED,GREEN,BLUE,YELLOW,ORANGE,PURPLE,PINK,WHITE
+39553522552995887	PIT INDEX
+39553522552995888	^cYesterday's prices. Not advice.
+39553522552995889	STAY IN THE LIGHT
+39553522552995890	CONTACTS
+39553522552995891	^mLonely robot vacuum (8)^w seeks\n^wa charging dock for long nights.\n^c   Call 1-900-762-646\n\n^mShovel, good condition,^w seeks\n^wbroom for more. No balls.\n^c   Call 1-900-225-537\n\n^mYou saw me in the ball pit.\n^wI saw you too.\n^wI always see you.\n^c   Call 1-900-666-666\n\n^y           $2.99/min
+39571300534124544	School
+39829091034046464	Caught running by the principal
+39917555122634752	Hide maxed
+39917555193937920	Hide locked
+39941966357790720	Unstuck
+39941966382956544	Freed.
+39941966382956545	No free spot nearby.
+39941966382956546	Unstuck available again in {0} s.
+39941966382956547	Not while something is hunting you.
+39941966382956548	Not possible right now.
+39976088748883968	Balli Holiday Costumes
+40234246008406016	Open
+40234246104875008	Close
+40631805984874496	Up/Down: scroll
+40586018631647232	Main menu
+40586018694561792	End of the last shift
+40586018694561793	Thank you for playing Playrooms! Here is everything you got done down here.
+40703131527675904	Print
+40703131657699328	Out of paper
+40720125780434944	Bonus balls
+41317129837486080	Whale sounds (freesound.org, edited): "Whale.wav" by Adrian_Gomar (CC BY 3.0); "Thar'she blows" by kaekhor (CC0)
+41353750205046784	Green Office
+41444300220407808	%%Count%% keys away
+41444300270739456	Needs %%Count%% more door keys
+41838750641823744	Select an item
+41838750729904128	Bought: %%Count%% of %%Max%%
+41845743326732288	Reset Room Balls
+41845743364481024	Put every ball of this room you have not collected yet back where it started?
+41845743364481025	{0} balls put back in place.
+41845743364481026	Every ball is already in its place.
+41845743364481027	No room here to reset.
+42467116512321536	"Backrooms Rigged Hazmat" by Loco (sketchfab.com/3d-models/64d0069ed0cc420d8b3158ab8a3e6405), licensed under CC BY 4.0 (creativecommons.org/licenses/by/4.0), modified for this game
+42848940719742976	workforce.exe
+42848940774268928	Workforce Goal
+42848940774268929	%%Count%% balls: %%Reward%%
+42848940774268930	new desktop background
+42848940774268931	new outfits for Ballie
+42848940774268932	Playrooms Chapter 2 for free
+42848940774268933	Stored worldwide: %%Count%% / %%Goal%%
+42848940774268934	%%Count%% / %%Max%% balls
+42848940774268935	%%Percent%% % of the total
+42848940774268936	Quota fulfilled
+42848940774268937	Counted once Steam is connected.
+42848940774268938	OK
+42848940774268939	As of %%Time%%
+42848940774268940	As of %%Time%% (offline)
+42848940774268941	No connection to Steam
+42848940774268942	Fetching ...
+42848940774268943	Final result
+42848940774268944	Test value (editor)
+42848940774268945	MM/dd, HH:mm
+42848940774268946	All inventory associates store balls together until 15 November. Every ball you store is credited to the workforce when you wake up.
+42848940774268947	The workforce goal has ended. Thank you for your commitment.
+42848940774268948	All the details in the Steam news.
+42848953327820800	display.exe
+42848953327820801	Display Properties
+42848953327820802	Background
+42848953327820803	Ballie
+42848953327820804	Teal (default)
+42848953327820805	Whiteboard, centred
+42848953327820806	Whiteboard, tiled
+42848953327820807	Standard
+42848953327820808	Hi-vis vest
+42848953327820809	Gold
+42848953327820810	from %%Count%% balls in workforce.exe
+42848953327820811	OK
+42848953327820812	Cancel
+42859937702486016	%%Days%% days left
+42859937710874624	last day
+42859937710874625	ended
+42859937710874626	%%Count%% / %%Goal%%  (%%Percent%%)
+42859937710874627	100M
+42859937710874628	500M
+42859937710874629	1B
+42859937710874630	Goals
+42859937710874631	Your contribution (limit per player)
+42859937710874632	Goal %%Tier%%: %%Count%% balls
+42859937710874633	??? (revealed when reached)
+42861101483433984	1 day left
+41469878088638464	Stroke width
+41469878130581504	Tool
+41469878130581505	Straight line
+41469878130581506	Undo
+41469878130581507	Redo
+41469878130581508	Done
+41469878130581509	Wipe
+43096340839989248	Whiteboard, full screen
+43096340865155072	locker.exe
+43096340865155073	Ballie's Locker
+43096340865155074	Head
+43096340865155075	Body
+43096340865155076	Standard
+43096340865155077	Locked: %%Source%%
+43096340865155078	OK
+43096340865155079	Cancel
+43096340865155080	Bunny ears
+43096340865155081	Santa hat
+43096340865155082	Hard hat
+43096340865155083	Party hat
+43096340865155084	Crown
+43096340865155085	Pumpkin
+43096340865155086	Hi-vis vest
+43096340865155087	Gold
+43096340865155088	Snowball
+43096340865155089	Robot grey
+43096340865155090	Easter
+43096340865155091	Halloween
+43096340865155092	Christmas
+43096340865155093	New Year's Eve
+43096340865155094	Workforce goal 1
+43096340865155095	Workforce goal 2
+43096340865155096	Last ball pit full
+43096340865155097	8 robot vacuums
+43112059262664704	Hygiene cap
+43112059266859008	Swim cap
+43112059266859009	Bellhop cap
+43112059266859010	Mortarboard
+43112059266859011	Propeller cap
+43112059266859012	Sparrow
+43112059266859013	Blue
+43112059266859014	Green
+43112059266859015	Yellow
+43112059266859016	Orange
+43112059266859017	Hazmat
+43112059266859018	Disco ball
+43112059266859019	First night survived
+43112059266859020	Poolroom entered
+43112059266859021	Hotel entered
+43112059266859022	School entered
+43112059266859023	Ballie thrown 10 times
+43112059266859024	All 20 sparrows
+43112059266859025	Ball pit 1,500 full
+43112059266859026	Ball pit 2,500 full
+43112059266859027	Ball pit 5,000 full
+43112059266859028	Ball pit 10,000 full
+43112059266859029	End shaft entered
+43112059266859030	Robot disco seen
+44223251976167424	5B
+44223252030693376	a trophy, a certificate and confetti
+44223267172130816	Certificate
+44223267172130817	CERTIFICATE
+44223267172130818	Workforce of the Year 2026
+44223267172130819	%%Count%% balls stored, together
+44223267172130820	Your contribution: %%Count%% balls
+44223267172130821	The Management
+44223292845465600	Workforce goal 4
+44223292845465601	Trophy
+45315846157041664	Extra Audio Settings
+45315846324813824	Animals
+45315846324813825	Mouth & Breathing
+45315846324813826	Footsteps
+45315846324813827	Water
+45323076923228160	Help
+45323076969365504	Help
+45323076969365505	Stuck, a ball out of reach, a robot gone astray? These are rescue tools, not cheats: each one only puts something back where it belongs.
+45323076969365506	Nudges you onto the nearest free spot when the level has you wedged.
+45323076969365507	Puts every uncollected ball of this room back where it started. Try the vacuum station or the broom first, they usually reach a stray ball.
+45323076969365508	Bring devices home
+45323076969365509	Brings all your robots, stations and ball vacuums back to the parking row in the Cleanroom.
+45323076969365510	Bring every robot, station and ball vacuum back to the parking row in the Cleanroom?
+45323076969365511	{0} devices are back in the Cleanroom.
+45323076969365512	You have no devices to bring home yet.
+45323076969365513	Already used today. Available again tomorrow.
+45323076969365514	Available again in {0} min.
+45323076969365515	Restart day
+45323076969365516	Loads this morning's checkpoint, everything from today is lost.
+45323076969365517	Restart this day? Everything since you woke up is lost.
+45323076969365518	Not during the first night.
+45323076969365519	Not at night. Make it to bed first.
+45323076969365520	Back
+45352964254269440	20B
+45352964258463744	DON'T EVEN THINK ABOUT IT
+45352964258463745	a laurel wreath for Ballie
+45353008940384256	Workforce goal 5
+45353008940384257	Laurel wreath

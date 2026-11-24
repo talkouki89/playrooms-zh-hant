@@ -1,0 +1,97 @@
+49575976239104	Balls
+65956381720576	Movement Speed
+65956398497792	Stamina Drain
+1124732238798848	balls
+1124796914966528	balls
+1130808472477696	balls per second
+1130808497643520	Stamina
+1528269974536192	Ball Collect Interval
+5000000000000010	Day Duration
+5000000000000011	Light Transition Interval
+5000000000000020	Steel Door
+5000000000000021	A heavy steel door for the back corridor. Once bought it can be opened at any time.
+5000000000000030	Key: 1st Door on the Left
+5000000000000031	Fits the first door on the left side of the playroom, counting from the entrance.
+5000000000000032	Key: 2nd Door on the Left
+5000000000000033	Fits the second door on the left side of the playroom, counting from the entrance.
+5000000000000034	Key: 3rd Door on the Left
+5000000000000035	Fits the third door on the left side of the playroom, counting from the entrance.
+5000000000000036	Key: 1st Door on the Right
+5000000000000037	Fits the first door on the right side of the playroom, counting from the entrance.
+5000000000000038	Key: 2nd Door on the Right
+5000000000000039	Fits the second door on the right side of the playroom, counting from the entrance.
+5000000000000040	Key: 3rd Door on the Right
+5000000000000041	Fits the third door on the right side of the playroom, counting from the entrance.
+11230154228473856	Hands
+11230154241056768	Flashlight
+11230154241056769	Flashlight
+11230154241056770	Light for dark corners and blackouts. Toggle it with F. The battery recharges by itself - once it runs dry, the lamp needs a while to come back.
+11230154241056771	Beam Brightness
+11230154241056772	Battery Life
+11230154241056773	Beam Range
+11244457237127168	Push Broom
+11244457262292992	Push Broom
+11244457262292993	Moves lots of balls at once. Hold the left mouse button to push them ahead of you in a heap - let go and the broom flicks it forward, ideally straight into a ball vent.
+11244457262292994	Handle Length
+11244457262292995	Sweep Width
+11244457262292996	Flick Speed
+11276520489197568	Ball Vacuum
+11276520510169088	A drop-off point to go - no more walking back to the ball pits. Carry it to where you collect and set it down. One click pours your pockets and the hand vacuum's tank into it, and it uploads the balls to the ball pits by itself. With an upgrade it also sucks up balls nearby. Only runs during the day in a lit room.
+11276520510169089	Tank Size
+11276520510169090	Intake Reach
+11276520510169091	Intake Speed
+12006157032857600	Recharge Time
+13814982882861056	Sweep Interval
+14200785354760192	Reach Factor
+14200785392508928	Intake Speed
+14200785392508929	Suction Force
+14200785392508930	Throughput
+15992470656491520	Beam Width
+18114027769233408	Interact Range
+21092329521872896	Sprint Multiplier
+26469040405020672	Feeding Bowl
+26469040430186496	Telescope
+26469040430186497	Bookshelf
+26499494789185536	Three-Seat Couch
+26499494814351360	Armchair
+26499494814351361	Coffee Table
+26499494814351362	Tall Plant
+26499494814351363	Desk Plant
+27232633606045696	Robot Capacity
+27232633627017216	Charge Rate
+27232633627017217	Unload Interval
+27232633627017218	Battery Runtime
+27245814583853056	Robot Speed
+27959486100152320	Robot Vacuum
+27959486112735232	Collects balls for you while you are elsewhere. It heads out as far as its battery reaches and returns to the nearest free charging station to charge and unload. Needs at least one charging station.
+28674471168770048	Charging Station
+28674471189741568	Home base for the robot vacuums - without a station, no robot can work. Put it down anywhere: robots charge here and hand the balls they collected over to the ball pits. More stations, less queueing. Only runs during the day in a lit room.
+28681736126922752	Robots Carried
+28751316098097152	Coffee Duration
+28751316148428800	Coffee Effects
+31267920383975424	Unload Interval
+31267920446889984	Upload Rate
+33059940844838912	Push Walk Speed
+33059940865810432	Broom Load
+35853902505246720	Tank Size
+35853902756904960	Balls per Second
+35853902756904961	Reach
+35853902756904962	Upload Rate
+35854037691858944	Hand Vacuum
+35854037691858945	Hand Vacuum
+35854037691858946	Collects balls without picking each one up. Hold the left mouse button to suck them into its own tank - at a ball pit the whole tank goes in at once.
+35899012571922432	Cone Angle
+35947549116530688	Auto Switch
+36264031717359616	Scanner
+36264031805440000	At the press of a key, records all units in your current room that have not been stored and marks them, walls notwithstanding. An inventory bonus is not provided.
+36264063564709888	Scan Range
+36264063564709889	Display Duration
+36264063564709890	Cooldown
+36577308011855872	Fruit Duration
+36577308049604608	Fruit Choice
+37743752305115136	Television
+37743752330280960	Toy Block
+37743752330280961	Gramophone
+38805564097011712	Copper Icosahedron
+38805564122177536	Wall Clock
+38849883092787200	Abstract Sculpture

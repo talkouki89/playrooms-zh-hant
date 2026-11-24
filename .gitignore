@@ -1,0 +1,21 @@
+# 備份、暫存與本機產物
+.backup/
+*.bak
+*.tmp
+__pycache__/
+*.pyc
+
+# 遊戲檔案（絕對不進版控）
+*.bundle
+*.assets
+*.assets.resS
+*.resource
+catalog.bin
+Playrooms.exe
+GameAssembly.dll
+UnityPlayer.dll
+
+# 系統
+Thumbs.db
+desktop.ini
+.DS_Store
